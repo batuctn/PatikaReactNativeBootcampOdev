@@ -7,7 +7,7 @@
 ![Ekran Alıntısı3](https://user-images.githubusercontent.com/96943978/185666997-8571b244-e644-4f15-b4f1-ff9b7f7d6790.PNG)
 # Instagram Home Page
 
-> Instagram login and home page lay out.Only works stories function.[Note:FlatList library was not used.Alternative mapping method].Other functions do not work at this time.I used a few inline styles.I know its not recommend but I had to otherwise state not found.I'll find out how it's gonna be in the future
+> Instagram login and home page lay out.Only works stories function.[Note:FlatList library was not used.Alternative mapping method].Other functions do not work at this time.I used a few inline styles.Services comment lines.
 
 
 ## Built With
@@ -16,7 +16,7 @@
 - CSS
 - JS
 
-## Live Demo (if available)
+## Live Demo (İts not available)
 
 [Live Demo Link](https://livedemo.com)
 
